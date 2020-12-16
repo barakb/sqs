@@ -1,7 +1,7 @@
-[![Build Status](https://travis-ci.org/barakb/sqs.svg?branch=main)](https://travis-ci.org/barakb/sqs)
+[![Build Status](https://www.travis-ci.com/barakb/sqs.svg?branch=master)](https://www.travis-ci.com/barakb/sqs)
 ### A simple non-blocking client for AWS SQS service.
 
-##### building 
+##### building
 gradle build
 
 ##### Example
