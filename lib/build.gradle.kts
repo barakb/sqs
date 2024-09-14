@@ -26,7 +26,7 @@ dependencies {
     implementation(platform("org.jetbrains.kotlin:kotlin-bom"))
 
     implementation("org.jetbrains.kotlin:kotlin-stdlib-jdk8")
-    implementation("org.jetbrains.kotlinx:kotlinx-coroutines-jdk8:1.4.0")
+    implementation("org.jetbrains.kotlinx:kotlinx-coroutines-jdk8:1.9.0")
 
     implementation("software.amazon.awssdk:sqs:2.15.47")
 
