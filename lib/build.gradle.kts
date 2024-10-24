@@ -28,7 +28,7 @@ dependencies {
     implementation("org.jetbrains.kotlin:kotlin-stdlib-jdk8")
     implementation("org.jetbrains.kotlinx:kotlinx-coroutines-jdk8:1.4.0")
 
-    implementation("software.amazon.awssdk:sqs:2.15.47")
+    implementation("software.amazon.awssdk:sqs:2.28.29")
 
     implementation("org.slf4j:slf4j-api:1.7.30")
 
